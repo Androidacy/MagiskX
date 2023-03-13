@@ -75,7 +75,7 @@ dependencies {
     implementation("com.github.topjohnwu:lz4-java:1.7.1")
     implementation("com.jakewharton.timber:timber:5.0.1")
     implementation("org.bouncycastle:bcpkix-jdk18on:1.72")
-    implementation("dev.rikka.rikkax.layoutinflater:layoutinflater:1.2.0")
+    implementation("dev.rikka.rikkax.layoutinflater:layoutinflater:1.3.0")
     implementation("dev.rikka.rikkax.insets:insets:1.3.0")
     implementation("dev.rikka.rikkax.recyclerview:recyclerview-ktx:1.3.1")
     implementation("io.noties.markwon:core:4.6.2")
